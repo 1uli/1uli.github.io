@@ -53,7 +53,7 @@ I will focus mostly on the following plus new material i will be coming across, 
 
 
 **Gaming and more**
-- as much as I don't game as I could, time! I love this activity, PC  and console
+- as much as I don't game as much I could. time! I love this activity, PC  and console
 
  **_ Basically we should only be here to have fun and learn _**
  
