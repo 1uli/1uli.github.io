@@ -1,7 +1,6 @@
 Welcome to Ulitec
 
 This is my personal tech blog where I will share a lot of these wonderful things i've been learning over the years. I tweet a lot @ulimahlangu on Twitter.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Topics
 
@@ -40,7 +39,7 @@ I will focus mostly on the following plus new material i will be coming across, 
 
 **Networking**
 
-**Gaming and more
+**Gaming and more**
 
  **_ Basically we would be here to have fun and learn _**
  
