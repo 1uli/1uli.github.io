@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+Welcome to Ulitec
 
-You can use the [editor on GitHub](https://github.com/1uli/1uli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+This is my personal tech blog where I will share a lot of these wonderful things i've been learning over the years. I tweet a lot @ulimahlangu on Twitter.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Topics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I will focus mostly on the following plus new material i will be coming across, but for the moment there's so much i want to share 
 
-```markdown
-Syntax highlighted code block
+**Virtual Machines**
+- qemu
+- virtualbox
+- and perhaps a little VMWare
 
-# Header 1
-## Header 2
-### Header 3
+**Operating Systems**
+- Ubuntu Linux
+- CentOS
+- Red Hat Linux
+- Arch Linux
+- Black Arch Linux
+- Fedora 
+- Windows OS
+- MacOS
+- Lineage OS
+- Anything else linux
 
-- Bulleted
-- List
+**Development environments**
 
-1. Numbered
-2. List
+- setting up
+- tips and tricks
+- tutorials
 
-**Bold** and _Italic_ and `Code` text
+**Productivity tools**
 
-[Link](url) and ![Image](src)
+**Web Development**
+
+**Web apps**
+
+**Security**
+
+**Networking**
+
+**Gaming and more
+
+ **_ Basically we would be here to have fun and learn _**
+ 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details check out [Ulitec on Facebook at ](https://www.facebook.com/1ulitec)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1uli/1uli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
